@@ -1,0 +1,14 @@
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\bin\Debug\net7.0\Bokhandel.exe
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\bin\Debug\net7.0\Bokhandel.deps.json
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\bin\Debug\net7.0\Bokhandel.runtimeconfig.json
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\bin\Debug\net7.0\Bokhandel.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\bin\Debug\net7.0\Bokhandel.pdb
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.AssemblyInfoInputs.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.AssemblyInfo.cs
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.csproj.CoreCompileInputs.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\refint\Bokhandel.dll
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.pdb
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\Bokhandel.genruntimeconfig.cache
+C:\Users\Burai\OneDrive\Documents\GitHub\Bokhandel\obj\Debug\net7.0\ref\Bokhandel.dll
